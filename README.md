@@ -1,2 +1,2 @@
 # Guessing-the-number
-created an game to guess a number 
+created an game to guess a number where the computer chose randomly, if we chose the number less than the predicted number then it'll print too low else if we chose the number greater than the predicted number  then it'll print too high. if we guess the correct answer the game is over and you win. there are two levels for this game in easy level there will be 10 chances to predict a number and for hard level there will be 5 chances to predict a number
